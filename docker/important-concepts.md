@@ -1,4 +1,6 @@
 
+![VMvsContainers](screenshots/VM-vs-Container.png)
+
 ![Images](screenshots/Images.png)
 
 ![Containers](screenshots/Containers.png)
